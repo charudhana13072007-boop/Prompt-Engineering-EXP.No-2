@@ -22,4 +22,6 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
+[212225060039 (2).pdf](https://github.com/user-attachments/files/28661587/212225060039.2.pdf)
+
 RESULT:
